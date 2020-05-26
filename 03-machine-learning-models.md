@@ -1,6 +1,7 @@
-# 3. Machine learning models 
+# 3. Machine learning models
+
 * Logistic Regression
-* Linear regression 
+* Linear regression
 * SVM
 * Decision trees
 * Random Forest
@@ -8,5 +9,6 @@
 * KNN
 
 ## Latent Dirichlet ALlocation - LDA
+
 > Not same as Linear Discriminant analysis (LDA)
 Text analysis, can be used for topic analysis of text documents
